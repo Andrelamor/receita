@@ -8,7 +8,3 @@ Ele é composto pelas seguintes [tabelas fato](https://pt.wikipedia.org/wiki/Tab
 - `ft_receita_prevista`
 - `ft_receita_v2018`
 - `ft_receita_prevista_v2018`
-
-## Diagrama
-
-![](https://raw.githubusercontent.com/dados-mg/receita/main/diagrama.png)
